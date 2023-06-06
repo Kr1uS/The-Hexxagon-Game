@@ -1,0 +1,3 @@
+/Users/macbook/Desktop/C:C++/The Hexxagon Game/cmake-build-debug/CMakeFiles/The_Hexxagon_Game.dir
+/Users/macbook/Desktop/C:C++/The Hexxagon Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbook/Desktop/C:C++/The Hexxagon Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
